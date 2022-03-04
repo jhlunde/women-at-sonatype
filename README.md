@@ -5,6 +5,12 @@
 
 **Women at Sonatype (W@S)** is a group at Sonatype that is passionate about promoting gender inclusivity, building a network and community to advance the members’ personal and professional growth through events and mentorship opportunities, and advocating for debiasing the recruitment of talent in tech, open source and executive leadership. This list aims to highlight members of W@S and their expertise, along with an opportunity to connect with them based on their interests.
 
+We'd like to invite everyone to join Sonatype in participating in the third consecutive year in <a href="https://www.internationalwomensday.com/">International Women’s Day</a>. It takes place on Tuesday, March 8th. This year’s theme is #BreakTheBias and we’re taking it to the next level with a series of events celebrating IWD and Women’s History month.
+
+In addition to social media, blog posts, a <a href="https://www.sonatype.com/company/careers">Sonatype.com career page</a> takeover and updates to the Sonatype intranet, we’re planning a panel discussion around the #BreakTheBias topic based on an article from the Harvard Business Review, <a href="https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams">How the Best Bosses Interrupt Bias on their Teams</a>. 
+
+Hashtags: #womenatsonatype, #BreakTheBias, #IWD2022.
+
 ## Members
 #### Allie Sierra
 - [Github](https://github.com/allisonsierra)
